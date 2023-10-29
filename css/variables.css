@@ -1,0 +1,16 @@
+:root {
+    --black: #121212;
+    --dark: #1D1D1D;
+    --gradient: 180deg, #060707 0%, #1D1D1D 100%;
+    --brown: #BEA69E;
+    --white: #ffffff;
+    --white-tr: rgba(255, 255, 255, 0.7);
+    --white-tr2: rgba(255, 255, 255, 0.5);
+    --white-tr3: rgba(255, 255, 255, 0.2);
+    --background-grau:#414141 ;
+    --grau:#414141;
+    --background-color-dark: #1D1D1D;
+    --background-color-white: #FFF;
+    --backgroundc-color-brown: #BEA69E;
+    --background-color-black: #121212;
+  }
